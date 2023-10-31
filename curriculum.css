@@ -7,18 +7,19 @@ body {
 
 header {
     background-color: #1F5D85;
-    color: #fff;
+    color: #E3FFFE;
     display: flex;
     align-items: center;
     padding: 20px;
 }
 .informacio-contacte {
     background-color: #3498db;
-    color: #fff;
-	border-top: 3px solid Beige;
+    color: #063d61;
+	border-top: 3px solid #E3FFFE;
 	padding: 30px;
 	margin: 0px;
 	width: 20%;
+    height: 748px;
    min-width: 100px;
    visibility:visible;
 }
@@ -33,7 +34,7 @@ p img {
     margin-right: 10px; 
 }
 a.link {
-    color: white; 
+    color: #063d61; 
 	text-decoration: underline;
 }
 
@@ -60,7 +61,7 @@ header p {
 }
 
 h2 {
-    color: white;
+    color: #032236;
 	font-size: 30px;
 }
 
@@ -82,14 +83,15 @@ a:hover {
 }
 
 .experiencia {
+    color: #063d61;
 	text-align: left;
-	margin-top: -700px;
+	margin-top: -750px;
 	z-index:-1;
-   margin-left: 800px;
+   margin-left: 820px;
    min-width: 300px;
 }
 .contingut-dreta h2{
-	color: black;
+	color: #032236;
 	font-style: italic;
 	font-weight: bold;
 
@@ -97,11 +99,11 @@ a:hover {
 
 
  .educacio{
-	 
+	color: #063d61;
 	text-align: left;
 	margin-top: 80px;
 	z-index:-1;
-    margin-left: 800px;
+    margin-left: 820px;
     min-width: 300px;
 	 
  }
