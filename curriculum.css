@@ -24,8 +24,8 @@ header {
 }
 .Esquerra{
 	margin-top: 50px;
-	
 }
+
 p img {
     display: inline;
     vertical-align: middle;
@@ -59,10 +59,6 @@ header p {
     margin-right: 20px;
 }
 
-.contacto {
-    margin: 20px;
-}
-
 h2 {
     color: white;
 	font-size: 30px;
@@ -87,10 +83,9 @@ a:hover {
 
 .experiencia {
 	text-align: left;
-	position: absolute;
-	margin-top: -650px;
+	margin-top: -700px;
 	z-index:-1;
-   margin-left: 1000px;
+   margin-left: 800px;
    min-width: 300px;
 }
 .contingut-dreta h2{
@@ -103,12 +98,11 @@ a:hover {
 
  .educacio{
 	 
-	 text-align: left;
-	positon: absolute;
+	text-align: left;
 	margin-top: 80px;
 	z-index:-1;
-   margin-left: 1000px;
-   min-width: 300px;
+    margin-left: 800px;
+    min-width: 300px;
 	 
  }
 
