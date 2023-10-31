@@ -87,7 +87,7 @@ a:hover {
 
 .experiencia {
 	text-align: left;
-	positon: absolute;
+	position: absolute;
 	margin-top: -650px;
 	z-index:-1;
    margin-left: 1000px;
